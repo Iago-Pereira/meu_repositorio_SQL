@@ -9,6 +9,9 @@ INSERT INTO aluno (nome, nascimento) VALUES ('Dale Bamba', '2022-07-15');
 
 SELECT * from aluno;
 
+DESC aluno;
+-- like python command df.info()
+
 /*
 DROP TABLE IF EXISTS aluno;
 CREATE TABLE aluno(
